@@ -1,0 +1,5 @@
+fastmcp
+scikit-learn
+pandas
+numpy
+joblib
